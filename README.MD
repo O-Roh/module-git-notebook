@@ -1,11 +1,3 @@
-Meu primeiro sistema no GIT
+Meu primeiro sistema no GIT (Notebook)
 
-Segunda alteração no README para descrever melhor o sistema
-
-Terceira alteração no README
-
-Quarta alteração no README
-
-Quinta alteração no README
-
-Sexta alteração no README, não foi eu
+Atualizando o README
